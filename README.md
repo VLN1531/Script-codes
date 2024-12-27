@@ -18,7 +18,11 @@ Feel free to contribute by:
 1. Adding additional practice problems.
 2. Sharing alternative solutions to existing problems.
 3. Suggesting improvements to the code or documentation.
+<<<<<<< HEAD
 
+=======
+---
+>>>>>>> d2aeeb10eeecd233f900ad6df14b0e47a0c0ff2f
 
 ### **🚀 Latest Update:**
 
