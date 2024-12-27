@@ -16,6 +16,8 @@ console.log('After push:',arr2); //[ 10, 20, 30, 40, 50 ]
 arr2.unshift(5); // Append Element at the 0th Index 
 console.log('After unshift',arr2); //[ 5, 10, 20, 30, 40, 50 ]
 
+
+
 //pop(): removes last element of an array
 console.log('Removed Element is:',arr2.pop());
 console.log('After pop:',arr2); // [ 5, 10, 20, 30, 40 ]
